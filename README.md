@@ -1,2 +1,2 @@
-# Data_Science
-Projects worked on Data Science
+# Machine_Learning
+Projects worked on machine Learning
